@@ -1,1 +1,1 @@
-Repository to test 'Wyona Continuous"
+Repository to test 'Yulup'
