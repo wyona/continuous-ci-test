@@ -1,1 +1,1 @@
-Repository to test 'Yulup'
+Github repository to test 'Yulup'
